@@ -1,19 +1,2 @@
-git is nb djjjijjjjjjk
-fd
-f
-d
-f
-d
-f
-d
-f
-d
-f
-d
-f
-d
-
-
-
-
-
+git is nb;
+add new content;
